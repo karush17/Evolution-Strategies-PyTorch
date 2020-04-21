@@ -35,7 +35,7 @@ python3 Evolution_Strategies.py
 ```  
 
 # Tips
-* MuJoCo is a difficult package to setup as it varies for each platform. Make sure to build it from source and specific to your system. A tutorial for the same can be found (here)[https://github.com/reinforcement-learning-kr/pg_travel/wiki/Installing-Mujoco-py-on-Linux].  
+* MuJoCo is a difficult package to setup as it varies for each platform. Make sure to build it from source and specific to your system. A tutorial for the same can be found [here](https://github.com/reinforcement-learning-kr/pg_travel/wiki/Installing-Mujoco-py-on-Linux).  
 * The parameter MAX_WORKERS should be handled carefully since training on multiple CPUs requires more processes and can often lead to poor performance.  
 * SIGMA is a tricky hyperparameter to tune. Often at times it will yield good evolutions in weight spaces but for some environments it may not lead to full convergence.  
 
