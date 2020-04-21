@@ -13,7 +13,7 @@ This tutorial is a naive implementation of ES proposed in OpenAI's [blog post](h
 
 # Dependencies
 ` ` ` 
-ubuntu 18.04  
+ubuntu 18.04  \n
 python 3.6  
 numpy 1.18.0  
 torch 1.4.0  
