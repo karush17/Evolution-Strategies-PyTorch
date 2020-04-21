@@ -40,9 +40,9 @@ python3 Evolution_Strategies.py
 * SIGMA is a tricky hyperparameter to tune. Often at times it will yield good evolutions in weight spaces but for some environments it may not lead to full convergence.  
 
 # Results
-<img src="results\results-1.PNG" align="center" height="3000" width="900" />  
-<img src="results\results-2.PNG" align="center" height="3000" width="900" />  
-<img src="results\results-3.PNG" align="center" height="3000" width="900" />  
+<img src="results\results-1.PNG" align="center" height="2000" width="900" />  
+<img src="results\results-2.PNG" align="center" height="2000" width="900" />  
+<img src="results\results-3.PNG" align="center" height="2000" width="900" />  
 
 
 
