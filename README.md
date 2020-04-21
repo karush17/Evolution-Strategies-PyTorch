@@ -12,8 +12,8 @@ This tutorial is a naive implementation of ES proposed in OpenAI's [blog post](h
 <h3>NOTE-</h3> All implementations of ES (including this tutorial) require effective computational and parallelization resources such as multiple CPU cores. Experiments for this tutorial were conducted on a virtual AWS EC2 instance consisting of 96 CPU cores and 384 GB of memory. 
 
 # Dependencies
-` ` ` 
-ubuntu 18.04  \n
+` ` ` python
+ubuntu 18.04  
 python 3.6  
 numpy 1.18.0  
 torch 1.4.0  
@@ -23,14 +23,14 @@ mujoco 1.50.1.59
 ` ` `  
 
 # Usage
-Download the repository, extract the contents and simply run the ipynb in Jupyter Notebook.
-` ` `  
+Download the repository, extract the contents and simply run the ipynb in Jupyter Notebook.  
+` ` ` python  
 jupyter notebook Evolution_Strategies.ipynb
 ` ` `  
 
 Run in Python using the following-  
-` ` `  
-ipython nbconvert --to script Evolution_Strategies.ipynb
+` ` ` python  
+ipython nbconvert --to script Evolution_Strategies.ipynb  
 python3 Evolution_Strategies.py
 ` ` `   
 
