@@ -42,7 +42,7 @@ python3 Evolution_Strategies.py
 # Results
 <img src="results\results-1.PNG" align="center" height="1000" width="900" />  
 <img src="results\results-2.PNG" align="center" height="1000" width="900" />  
-<img src="results\results-3.PNG" align="center" height="1000" width="900" />  
+<img src="results\results-3.PNG" align="center" height="250" width="900" />  
 
 
 
