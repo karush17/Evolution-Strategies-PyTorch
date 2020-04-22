@@ -2,8 +2,8 @@
  
 <img src="gifs\BipedalWalker.gif" align="center" height="200" width="200" /><img src="gifs\LunarLander.gif" align="center" height="200" width="200" /><img src="gifs\Hopper.gif" align="center" height="200" width="200" /><img src="gifs\Swimmer.gif" align="center" height="200" width="200" />  
 
-<img src="gifs\HalfCheetah.gif" align="center" height="200" width="200" /><img src="gifs\InvertedPendulum.gif" align="center" height="200" width="200" /><img src="gifs\Reacher.gif" align="center" height="200" width="200" /><img src="gifs\Humanoid.gif" align="center" height="200" width="200" />
-
+<img src="gifs\HalfCheetah.gif" align="center" height="200" width="200" /><img src="gifs\InvertedPendulum.gif" align="center" height="200" width="200" /><img src="gifs\Reacher.gif" align="center" height="200" width="200" /><img src="gifs\Humanoid.gif" align="center" height="200" width="200" />  
+<img src="gifs\Thrower.gif" align="center" height="200" width="200" /><img src="gifs\HumanoidStandup.gif" align="center" height="200" width="200" />
 
 
 # Introduction
